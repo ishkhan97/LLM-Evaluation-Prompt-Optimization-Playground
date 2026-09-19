@@ -28,4 +28,8 @@ This folder includes test files too.
 - Retrieval-Augmented Generation (RAG)
 - Support for local inference (vLLM)
 
+Medium Link: https://medium.com/ai-in-plain-english/building-an-llm-evaluation-prompt-optimization-playground-with-python-fastapi-and-streamlit-ceb4ba2f77c4
+
+Zenodo: https://zenodo.org/records/20352383
+
 Thanks!
